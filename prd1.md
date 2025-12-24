@@ -1,4 +1,4 @@
-# Nama kelompok : Nurul Huda (221240001330), Faiq Taufiqur Rahman (221240001341)
+# Nama kelompok : Nurul Huda (221240001330)
 
 #Product Requirement Document (PRD) — v2 (dengan Fitur Premium)
 
@@ -151,5 +151,6 @@ Catatan Premium (konseptual):
 ---
 
 Dokumen ini memperbarui PRD sebelumnya dengan penambahan Fitur Premium (Pro): Manajemen Kadaluarsa dan Scan Barcode/QR. Untuk detail implementasi teknis, mengacu pada arsitektur yang ada tanpa mengubah tujuan operasional offline dan kemudahan penggunaan.
+
 
 
